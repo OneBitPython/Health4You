@@ -6,7 +6,8 @@ This is my submission for a Timathon competition. The project's name is Health4Y
 
 ## Method 1 to setup the project (using the MAIN.py file)
 First as always, you have to download the repository by clicking on the green code button on the right and clicking "Download Zip", once this is done make sure to extract it. After you are done extracting it, open CMD in the same directory, then say 
-```pip install -r requirements.txt```, for this you will have to have pip and python installed. After running this command, you should have all the required modules like PyQt5, requests, tensorflow, etc. Finally make sure to run the MAIN.py file. Now you are good to go! If you don't have python installed, please view method 2. 
+```pip install -r requirements.txt```, 
+for this you will have to have pip and python installed. After running this command, you should have all the required modules like PyQt5, requests, tensorflow, etc. Finally make sure to run the MAIN.py file. Now you are good to go! If you don't have python installed, please view method 2. 
 
 ### Video link on how to setup the projet using the MAIN.py file - 
 
