@@ -60,3 +60,11 @@ This project is a continuasion of the first and third projects. This project tak
 ## Important shortcut keys
 enter - this gives the prediction/output of a specific model or subproject.
 Shift + B - this takes you back to the home screen
+
+
+## Feeback
+Please star the github repo, if you liked it. Also kindly send your feedback whether it may be positive or negative to ananthramtennis12@gmail.com. Cheers!
+
+## Images of the project
+
+![alt text](https://github.com/PythonIsInMyGenes/Health4You/blob/main/images/Main%20Page.png)
