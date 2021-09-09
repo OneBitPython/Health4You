@@ -1,0 +1,13 @@
+pyqt5
+pyqt5-tools
+futures
+requests
+opencv-python
+tensorflow
+keras
+numpy
+catboost
+opencv-contrib-python
+folium
+python-dotenv
+geopy

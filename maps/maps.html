@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_1325283562e1469e96142f1ef2a18305 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_1325283562e1469e96142f1ef2a18305" ></div>
+        
+</body>
+<script>    
+    
+            var map_1325283562e1469e96142f1ef2a18305 = L.map(
+                "map_1325283562e1469e96142f1ef2a18305",
+                {
+                    center: [43.663461999999996, -79.39775965337452],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 12,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_88e87565689342fcbd55350d7bc2d7f4 = L.tileLayer(
+                "https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg",
+                {"attribution": "Map tiles by \u003ca href=\"http://stamen.com\"\u003eStamen Design\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by/3.0\"\u003eCC BY 3.0\u003c/a\u003e. Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by-sa/3.0\"\u003eCC BY SA\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_1325283562e1469e96142f1ef2a18305);
+        
+    
+            var marker_ab07f839fab840148413840f9601aab3 = L.marker(
+                [43.65753, -79.3904],
+                {}
+            ).addTo(map_1325283562e1469e96142f1ef2a18305);
+        
+    
+        var popup_fdf72c81ae50472fbddc6d681f5fa782 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_f3e3d51d693e4995bb528834bd494482 = $(`<div id="html_f3e3d51d693e4995bb528834bd494482" style="width: 100.0%; height: 100.0%;">['Mt Sinai Hospital\n', '+14165864800\n']</div>`)[0];
+            popup_fdf72c81ae50472fbddc6d681f5fa782.setContent(html_f3e3d51d693e4995bb528834bd494482);
+        
+
+        marker_ab07f839fab840148413840f9601aab3.bindPopup(popup_fdf72c81ae50472fbddc6d681f5fa782)
+        ;
+
+        
+    
+    
+            var marker_7621766386a34e2690d642df2ec3f684 = L.marker(
+                [43.65906, -79.38761],
+                {}
+            ).addTo(map_1325283562e1469e96142f1ef2a18305);
+        
+    
+        var popup_728e3f18896346bd986ed5c4a4ca1ce1 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b5972bcc681149b1b23653ef1521cda0 = $(`<div id="html_b5972bcc681149b1b23653ef1521cda0" style="width: 100.0%; height: 100.0%;">['Toronto General Hospital\n', '+14163403111\n']</div>`)[0];
+            popup_728e3f18896346bd986ed5c4a4ca1ce1.setContent(html_b5972bcc681149b1b23653ef1521cda0);
+        
+
+        marker_7621766386a34e2690d642df2ec3f684.bindPopup(popup_728e3f18896346bd986ed5c4a4ca1ce1)
+        ;
+
+        
+    
+    
+            var marker_c795214478fd46919faf0f6feeffa1c6 = L.marker(
+                [43.65748, -79.38636],
+                {}
+            ).addTo(map_1325283562e1469e96142f1ef2a18305);
+        
+    
+        var popup_4b86e8be72f146f980e26ca874518fb2 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_cda4e586756745a1bd8db07ee31641a5 = $(`<div id="html_cda4e586756745a1bd8db07ee31641a5" style="width: 100.0%; height: 100.0%;">['Hospital for Sick Children\n', '+14168131500\n']</div>`)[0];
+            popup_4b86e8be72f146f980e26ca874518fb2.setContent(html_cda4e586756745a1bd8db07ee31641a5);
+        
+
+        marker_c795214478fd46919faf0f6feeffa1c6.bindPopup(popup_4b86e8be72f146f980e26ca874518fb2)
+        ;
+
+        
+    
+    
+            var marker_2239c176af2f40eb8be97a6d98f6cbe2 = L.marker(
+                [43.65297, -79.4062],
+                {}
+            ).addTo(map_1325283562e1469e96142f1ef2a18305);
+        
+    
+        var popup_45d8ee3d492a4f73a4ae6ebc9ef8825a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ef53f25de62444049c0e19c489406082 = $(`<div id="html_ef53f25de62444049c0e19c489406082" style="width: 100.0%; height: 100.0%;">['Toronto Western Hospital\n', '+14166032581\n']</div>`)[0];
+            popup_45d8ee3d492a4f73a4ae6ebc9ef8825a.setContent(html_ef53f25de62444049c0e19c489406082);
+        
+
+        marker_2239c176af2f40eb8be97a6d98f6cbe2.bindPopup(popup_45d8ee3d492a4f73a4ae6ebc9ef8825a)
+        ;
+
+        
+    
+    
+            var marker_998f3203d94641c08912b417833aa770 = L.marker(
+                [43.6526, -79.37743],
+                {}
+            ).addTo(map_1325283562e1469e96142f1ef2a18305);
+        
+    
+        var popup_22e534506a964ef0a57d55572297386e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_99421653d1fe492883f83cae00a35582 = $(`<div id="html_99421653d1fe492883f83cae00a35582" style="width: 100.0%; height: 100.0%;">["St Michael's Hospital\n", '+14163604000\n']</div>`)[0];
+            popup_22e534506a964ef0a57d55572297386e.setContent(html_99421653d1fe492883f83cae00a35582);
+        
+
+        marker_998f3203d94641c08912b417833aa770.bindPopup(popup_22e534506a964ef0a57d55572297386e)
+        ;
+
+        
+    
+</script>
