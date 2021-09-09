@@ -35,7 +35,7 @@ This is a project that takes in your gender, age, your daily physical activity, 
 ### **2. CovidScan**
 
 This is an AI model, that uses CNN(Convolutional Neural Networks) to understand whether the chest CT scan of a patient is a covid patients CT scan or a normal persons CT scan.
-This AI model has been trained on 6000 different images and has an accuracy of 96%. Once you setup the project(*Info on that has been given below*) you will see sample CT scans of covid patients on your right hand side. Please only upload such types of images in the upload image section. This subproject outputs its prediction, the model remarks and its confidence.
+This AI model has been trained on 6000 different images and has an accuracy of 96%. Once you setup the project(*Info on that has been given above*) you will see sample CT scans of covid patients on your right hand side. Please only upload such types of images in the upload image section. This subproject outputs its prediction, the model remarks and its confidence.
 
 ### **3. Dietning**
 
