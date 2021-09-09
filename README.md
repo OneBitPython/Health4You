@@ -67,9 +67,46 @@ Please star the github repo, if you liked it. Also kindly send your feedback whe
 
 ## Images of the project
 
-This is the image of the main page ie the first three projects
+### This is the image of the main page ie the first three projects
+
+
 ![alt text](https://github.com/PythonIsInMyGenes/Health4You/blob/main/images/Main%20Page.png)
 
-Below you will find the image of the first project, "FitZone"
+
+
+### Below you will find the image of the first project, "FitZone"
+
 
 ![alt text](https://github.com/PythonIsInMyGenes/Health4You/blob/main/images/FitoneImage.png)
+
+
+
+### This is the second project, "CovidScan"
+
+
+![alt text](https://github.com/PythonIsInMyGenes/Health4You/blob/main/images/CovidScanImage.png)
+
+
+
+### Next, you will see the third project, "Dietning"
+
+
+![alt text](https://github.com/PythonIsInMyGenes/Health4You/blob/main/images/Dietning%20image.png)
+
+
+
+### Below, you will find the generated map of the fourth project, "HospiLoc"
+
+
+![alt text](https://github.com/PythonIsInMyGenes/Health4You/blob/main/images/Hospitals_image.png)
+
+
+
+### Lastly, you will see the image of the fifth project, "EnergyIndex"
+
+
+![alt text](https://github.com/PythonIsInMyGenes/Health4You/blob/main/images/EnergyIndex.png)
+
+
+
+There is also a sixth project, called "Dietning 2" which is a continuasion of the first and third project.
