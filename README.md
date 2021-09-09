@@ -11,7 +11,7 @@ To setup the project, the first thing that you have to do is download the zip of
 You could download the main.exe file seperately by clicking on that file and downloading it. If you do this step then it is important to put the exe file in the same directory as the MAIN.py file.
 
 ### **Fix 2**
-This is the second fix and the fix that I suggest you go for. I have attached a google drive link - 
+This is the second fix and the fix that I suggest you go for. I have attached a google drive link - https://drive.google.com/drive/folders/1o9uAPCUKdd_-pmw21dhSC-zy1aqLihtc?usp=sharing
 You can use this link to download all the files directly from there, in this case there won't be any problems with the exe file. But one thing you have to note is that you may get warning saying that the exe file has a virus in it, fret not I have tried this on multiple machines and there are no issues with the exe file. But I do understand your concern so I have also given another method to setup the project without the use of the exe file.
 
 ## Info on the subprojects
