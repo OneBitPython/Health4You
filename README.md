@@ -5,11 +5,11 @@ This is my submission for a Timathon competition. The project's name is Health4Y
 ## How do you setup the project
 
 ## Method 1 to setup the project (using the MAIN.py file)
-First as always, you have to download the repository by clicking on the green code button on the right and clicking "Download Zip", once this is done make sure to extract it. After you are done extracting it, open CMD in the same directory, then say 
+First as always, you have to download the repository by clicking on the green code button on the top right and clicking "Download Zip", once this is done make sure to extract it. After you are done extracting it, open CMD in the same directory of the MAIN.py file, then say 
 ```pip install -r requirements.txt```, 
 for this you will have to have pip and python installed. After running this command, you should have all the required modules like PyQt5, requests, tensorflow, etc. Finally make sure to run the MAIN.py file. Now you are good to go! If you don't have python installed, please view method 2. 
 
-### Video link on how to setup the projet using the MAIN.py file - 
+### Video link on how to setup the project using the MAIN.py file - 
 
 ## Method 2 to setup the project (using the exe file)
 To setup the project, the first thing that you have to do is download the zip of the repository by clicking on the green code button on the top right and clicking "Download Zip", once this is done make sure to extract it. Once this is done go into the subfolder "Health4You" and you will see all the files and folders of the project. Ideally you would want to run the exe file, but github is causing a few problems with the exe. So now I will give two fixes for the said problem. **Please note that windows defender may say that there is a virus in the exe,don't be afraid this is a false positive, there are no such issUes with the file.** Video links for both the fixes have been attached - 
