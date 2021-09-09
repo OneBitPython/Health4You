@@ -4,8 +4,11 @@ This is my submission for a Timathon competition. The project's name is Health4Y
 
 ## How do you setup the project
 To setup the project, the first thing that you have to do is download the zip of the repository by clicking on the green code button on the top left and clicking "Download Zip", once this is done make sure to extract it. Once this is done go into the subfolder "Health4You" and you will see all the files and folders of the project. Ideally you would want to run the exe file, but github is causing a few problems with the exe. So now I will give two fixes for the said problem. **Please note that windows defender may say that there is a virus in the exe,don't be afraid this is a false prositive, there are no such isses with the file.** Video links for both the fixes have been attached - 
-### Fix 1 video link - 
-### Fix 2 video link - 
+
+## Method 1 to setup your project
+
+### Fix 1 video link -  https://www.youtube.com/watch?v=yyBfWIV8Cz0
+### Fix 2 video link -  
 If your problem hasnt been fixed then these two videos will surely be able to help you out.
 
 ### **Fix 1**
