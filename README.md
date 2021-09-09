@@ -19,7 +19,7 @@ To setup the project, the first thing that you have to do is download the zip of
 If your problem hasnt been fixed then these two videos will surely be able to help you out.
 
 ### **Fix 1**
-After downloading the files and then extracting, you should download the main.exe file seperately by clicking on that file and downloading it. If you do this step then it is important to put the exe file in the same directory as the MAIN.py file.
+After downloading the files and then extracting, you should download the main.exe file seperately by clicking on that file and downloading it. If you do this step then it is important to put the exe file in the same directory as the MAIN.py file. The exe file that you have now downloaded should have a file size of about 6,00,000 KB. Whereas the previous exe file that you saw wouldve been only 1KB. Make sure to replace the 1KB exe file with the exe file that you have downloaded seperately
 
 ### **Fix 2**
 This is the second fix and the fix that I suggest you go for. I have attached a google drive link - https://drive.google.com/drive/folders/1o9uAPCUKdd_-pmw21dhSC-zy1aqLihtc?usp=sharing
