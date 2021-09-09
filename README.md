@@ -67,4 +67,9 @@ Please star the github repo, if you liked it. Also kindly send your feedback whe
 
 ## Images of the project
 
+This is the image of the main page ie the first three projects
 ![alt text](https://github.com/PythonIsInMyGenes/Health4You/blob/main/images/Main%20Page.png)
+
+Below you will find the image of the first project, "FitZone"
+
+![alt text](https://github.com/PythonIsInMyGenes/Health4You/blob/main/images/FitoneImage.png)
