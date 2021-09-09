@@ -49,7 +49,7 @@ This project, takes in various inputs like gender, age, physical activity, wheth
  e) 5 meals - generates breakfast, lunch, snack, dinner and desert
  
 ### **4. Hospiloc**
-This project's name is shorthand for "hospital locations". Based on your address, it gives you a list of 5 different hospitals near you and the hospitals information like their phone number, address, name, etc. The app then generates a map, which has all the five hospitals marked on it. The address that has to be provided has to be in a specific format. Which is specified in the project itself.
+This project's name is shorthand for "hospital locations". Based on your address, it gives you a list of 5 different hospitals near you and the hospitals information like their phone number, address, name, etc. The app then generates a map, which has all the five hospitals marked on it. The address that has to be provided has to be in a specific format, which is specified in the project itself.
  
 ### **5. EnergyIndex**
 This project also uses AI to predict how burned out you are on a scale of 0 to 1. It is specific for employees in companies. The various inputs that it takes are - your gender, your designation in the company on a scale of 0 to 5(0 being the lowest designation and 5 being the highest), whether your company allows a work from home setup(WFH setup), the hours that you have to work for per day on a scale of 0 to 10(0 being the lowest and 10 the highest) and also how stressed you feel, it then outputs how burned out you are on a scale of 0 to 1.
