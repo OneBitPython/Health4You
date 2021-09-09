@@ -3,8 +3,16 @@ This is my submission for a Timathon competition. The project's name is Health4Y
 **Please note there are problems with the main.exe file after you extract the downloaded zipped folder. 2 Possible fixes are given below**
 
 ## How do you setup the project
-To setup the project, the first thing that you have to do is download the zip of the repository by clicking on the green code button on the top left and clicking "Download Zip", once this is done make sure to extract it. Once this is done go into the subfolder "Health4You" and you will see all the files and folders of the project.
+To setup the project, the first thing that you have to do is download the zip of the repository by clicking on the green code button on the top left and clicking "Download Zip", once this is done make sure to extract it. Once this is done go into the subfolder "Health4You" and you will see all the files and folders of the project. Ideally you would want to run the exe file, but github is causing a few problems with the exe. So now I will give two fixes for the said problem. **Please note that windows defender may say that there is a virus in the exe,don't be afraid this is a false prositive, there are no such isses with the file.** Video links for both the fixes have been attached - 
+### Fix 1 video link - 
+### Fix 2 video link - 
 
+### **Fix 1**
+You could download the main.exe file seperately by clicking on that file and downloading it. If you do this step then it is important to put the exe file in the same directory as the MAIN.py file.
+
+### **Fix 2**
+This is the second fix and the fix that I suggest you go for. I have attached a google drive link - 
+You can use this link to download all the files directly from there, in this case there won't be any problems with the exe file. But one thing you have to note is that you may get warning saying that the exe file has a virus in it, fret not I have tried this on multiple machines and there are no issues with the exe file. But I do understand your concern so I have also given another method to setup the project without the use of the exe file.
 
 ## Info on the subprojects
 The 6 projects that are a part of this app are
