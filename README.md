@@ -46,7 +46,7 @@ This project, takes in various inputs like gender, age, physical activity, wheth
  b) 2 meals - generates breakfast and lunch
  c) 3 meals - generates breakfast, lunch and dinner
  d) 4 meals - generates breakfast, lunch, snack and dinner
- e) 5 meals - generates breakfast, lunch, snack, dinner and dinner
+ e) 5 meals - generates breakfast, lunch, snack, dinner and desert
  
 ### **4. Hospiloc**
 This project's name is shorthand for "hospital locations". Based on your address, it gives you a list of 5 different hospitals near you and the hospitals information like their phone number, address, name, etc. The app then generates a map, which has all the five hospitals marked on it. The address that has to be provided has to be in a specific format. Which is specified in the project itself.
