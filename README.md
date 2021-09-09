@@ -1,6 +1,6 @@
 # Health4You
-This is my submission for a Timathon competition. The project's name is Health4You and it includes 6 subprojects in it. This is an allround project that works on staying fit, intaking enough calories, checking your energy index, etc. This app was made using PyQt5. 
-**Please note there are problems with the main.exe file after you extract the downloaded zipped folder. 2 Possible fixes are given below**
+This is my submission for a Timathon competition. The project's name is Health4You and it includes 6 subprojects in it. This is an allround project that works on staying fit, intaking enough calories, checking your energy index, etc. This app was made using PyQt5. Demonstration of the project - https://www.youtube.com/watch?v=xi7vMahyofc
+**Please note there are problems with the main.exe file after you extract the downloaded zipped folder. 2 Possible fixes are given below**. 
 
 ## How do you setup the project
 
